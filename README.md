@@ -31,7 +31,8 @@
 <h3>Steps to Run</h3>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/EventManagerAPI.git</code></pre>
+    <pre><code>git clone https://github.com/chisa-sifiso
+      /EventManagerAPI.git</code></pre>
   </li>
   <li>Open the project in IntelliJ IDEA.</li>
   <li>Ensure the necessary dependencies are installed (Spring Web, Spring Data JPA, H2 Database).</li>
